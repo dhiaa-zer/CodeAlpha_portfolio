@@ -209,7 +209,7 @@ body{
 }
 
 #about p{
-    font-size: 2.2rem;
+    font-size: 1.8rem;
     font-family:'Rubik',sans-serif ;
     color:rgb(0, 45, 91) ;
     letter-spacing: 1px;
@@ -724,7 +724,7 @@ form button[type="submit"]:active {
     height: 330px;
    }
    #about{
-    margin-bottom: 80px;
+    margin-bottom: 120px;
    }
 
    .project-grid{
